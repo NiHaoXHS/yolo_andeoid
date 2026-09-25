@@ -4,19 +4,19 @@
 
 ![conda](./img/conda.png)
 
-![conda1](img\conda1.png)
+![conda1](./img/conda1.png)
 
-![conda2](img\conda2.png)
+![conda2](./img/conda2.png)
 
-![conda3](img\conda3.png)
+![conda3](./img/conda3.png)
 
-![conda4](img\conda4.png)
+![conda4](./img/conda4.png)
 
-![conda5](img\conda5.png)
+![conda5](./img/conda5.png)
 
 使用conda创建虚拟环境：
 
-![condaenv](img\condaenv.png)
+![condaenv](./img/condaenv.png)
 
 ```bash
 # 创建虚拟环境
@@ -33,7 +33,7 @@ yolo可以使用cpu或gpu训练模型，cpu训练特别慢，gpu需要使用nvid
 
 安装pytorch https://pytorch.org/get-started/locally/
 
-![pytorch](img\pytorch.png)
+![pytorch](./img/pytorch.png)
 
 ```bash
 # pytorch下载
@@ -42,7 +42,7 @@ pip3 install torch torchvision
 
 安装ultralytics框架:https://docs.ultralytics.com/zh/quickstart
 
-![yolo11](img\yolo11.png)
+![yolo11](./img/yolo11.png)
 
 ```bash
 pip install -U ultralytics
@@ -56,25 +56,25 @@ pip install -U ultralytics
 nvidia-smi
 ```
 
-![cuda](img\cuda.png)
+![cuda](./img/cuda.png)
 
 CUDA Toolkit下载列表：https://developer.nvidia.com/cuda-toolkit-archive
 
-![cuda1](img\cuda1.png)
+![cuda1](./img/cuda1.png)
 
 下载cuda toolkit （建议本地离线安装）
 
-![cuda2](img\cuda2.png)
+![cuda2](./img/cuda2.png)
 
 安装pytorch https://pytorch.org/get-started/locally/
 
 选择对应的cuda版本
 
-![pytorch1](img\pytorch1.png)
+![pytorch1](./img/pytorch1.png)
 
 安装ultralytics框架:https://docs.ultralytics.com/zh/quickstart
 
-![yolo11](img\yolo11.png)
+![yolo11](./img/yolo11.png)
 
 ```bash
 pip install -U ultralytics
