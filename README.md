@@ -143,11 +143,11 @@ pip install -U ultralytics
 
 双击打开填写:
 
-![img](D:\Users\xiaoming\Desktop\yolo_andeoid\img\img.png)
+![img](./img/img.png)
 
 回到xanylabeling
 
-![dc1](D:\Users\xiaoming\Desktop\yolo_andeoid\img\dc1.png)
+![dc1](./img/dc1.png)
 
 ![dc3](./img/dc3.png)
 
@@ -376,9 +376,9 @@ if __name__ == '__main__':
 
 结果：
 
-![result](D:\Users\xiaoming\Desktop\yolo_andeoid\img\result.png)
+![result](./img/result.png)
 
-![train](D:\Users\xiaoming\Desktop\yolo_andeoid\img\train.png)
+![train](./img/train.png)
 
 在同基本目录下创建test.py测试脚本：
 
